@@ -1,0 +1,48 @@
+7<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Kian</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>About Kian</h1>
+        <p>Kian is 14 years old and has played many sports over the years. He enjoys staying active and competing in a variety of sports, some of which include:</p>
+        <ul>
+            <p>Chess – has played alot in tournaments and ks active in the community<p>
+            <p>Basketball – has only played when he was a child<p>
+            <p>Soccer – has dreamed of being a official soccer player but stopped and tried new things<p>
+            <p>Badminton – Is active in the community and is always happy to play a game <p>
+        </ul>
+        <p>Kian is always eager to learn new skills and improve his performance in all the sports he loves!</p>
+        <p>Kian can give attention if needed and can treat you right</p>  
+        <p>Kian is also looking for a relationship</p>
+                       
+   </div>
+  </body>
+ </html>
